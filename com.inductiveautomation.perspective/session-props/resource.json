@@ -8,16 +8,9 @@
   ],
   "attributes": {
     "lastModification": {
-<<<<<<< HEAD
       "actor": "tamer",
-      "timestamp": "2024-09-03T20:04:17Z"
+      "timestamp": "2024-09-03T20:22:15Z"
     },
-    "lastModificationSignature": "64dd0146192ccb145bf672b24904c9723e93347d59abfb7ad7deb8854e18d69e"
-=======
-      "actor": "Ahmed",
-      "timestamp": "2024-09-03T10:27:42Z"
-    },
-    "lastModificationSignature": "8c46dfd24ba6d8e1712bcfbf0eb2ad0e2c9ffbae1cfec603ed39e397c0743656"
->>>>>>> origin2/master
+    "lastModificationSignature": "4c00b680d00ddd55b0bb9850b4ede0cff902aaaa7786d7f1a9100d5d73039d7f"
   }
 }

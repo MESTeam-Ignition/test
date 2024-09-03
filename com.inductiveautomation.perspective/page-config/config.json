@@ -1,13 +1,5 @@
 {
-<<<<<<< HEAD
   "pages": {},
-=======
-  "pages": {
-    "/": {
-      "viewPath": "server"
-    }
-  },
->>>>>>> origin2/master
   "sharedDocks": {
     "cornerPriority": "top-bottom"
   }

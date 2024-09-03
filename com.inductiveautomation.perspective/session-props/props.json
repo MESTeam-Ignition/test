@@ -51,18 +51,10 @@
     }
   },
   "props": {
-<<<<<<< HEAD
     "address": "127.0.0.1",
     "device": {},
     "geolocation": {},
     "locale": "en-US",
     "timeZoneId": "Asia/Riyadh"
-=======
-    "address": "102.191.25.134",
-    "device": {},
-    "geolocation": {},
-    "locale": "en-US",
-    "timeZoneId": "Europe/Berlin"
->>>>>>> origin2/master
   }
 }
