@@ -3,6 +3,20 @@
   "params": {},
   "props": {},
   "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "LedDisplay"
+        },
+        "position": {
+          "height": 223,
+          "width": 279,
+          "x": 220,
+          "y": 165
+        },
+        "type": "ia.display.led-display"
+      }
+    ],
     "meta": {
       "name": "root"
     },

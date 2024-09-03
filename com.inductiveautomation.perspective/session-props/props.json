@@ -51,10 +51,10 @@
     }
   },
   "props": {
-    "address": "102.191.25.134",
+    "address": "127.0.0.1",
     "device": {},
     "geolocation": {},
     "locale": "en-US",
-    "timeZoneId": "Europe/Berlin"
+    "timeZoneId": "Asia/Riyadh"
   }
 }
