@@ -8,9 +8,16 @@
   ],
   "attributes": {
     "lastModification": {
+<<<<<<< HEAD
       "actor": "tamer",
       "timestamp": "2024-09-03T20:04:00Z"
     },
     "lastModificationSignature": "4af3afebd65ed240691e467514f25d05c5c1df2e363e0414ff6776889bf71e3c"
+=======
+      "actor": "Ahmed",
+      "timestamp": "2024-09-03T10:20:47Z"
+    },
+    "lastModificationSignature": "8eb182718e846d088146087d4686cda770b868aa0b4ffe57960833539c7f0847"
+>>>>>>> origin2/master
   }
 }
